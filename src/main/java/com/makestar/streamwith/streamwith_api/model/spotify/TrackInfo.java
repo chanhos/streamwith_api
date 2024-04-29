@@ -14,4 +14,5 @@ public class TrackInfo {
     String href;
     String name;
     InfoType type;
+    Album album;
 }

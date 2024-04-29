@@ -1,9 +1,9 @@
 package com.makestar.streamwith.streamwith_api.model.spotify;
 
 public enum InfoType {
-    TRACK("track") ,
-    ALBUM("album") ,
-    ARTIST("artist");
+    track("track") ,
+    album("album") ,
+    artist("artist");
 
     private final String label;
 

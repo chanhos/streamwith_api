@@ -1,0 +1,488 @@
+{
+  "results": {
+    "songs": {
+      "href": "/v1/catalog/us/search?limit=5&term=ditto+new+jeans&types=songs",
+      "next": "/v1/catalog/us/search?offset=5&term=ditto+new+jeans&types=songs",
+      "data": [
+        {
+          "id": "1657231962",
+          "type": "songs",
+          "href": "/v1/catalog/us/songs/1657231962",
+          "attributes": {
+            "albumName": "Ditto - Single",
+            "genreNames": [
+              "K-Pop",
+              "Music",
+              "Pop"
+            ],
+            "trackNumber": 1,
+            "durationInMillis": 185507,
+            "releaseDate": "2022-12-19",
+            "isrc": "USA2P2254487",
+            "artwork": {
+              "width": 1400,
+              "height": 1400,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f6/29/42/f629426e-92fe-535c-cbe4-76e70850819b/196922287107_Cover.jpg/{w}x{h}bb.jpg",
+              "bgColor": "fdfcff",
+              "textColor1": "36080e",
+              "textColor2": "440a11",
+              "textColor3": "5e393e",
+              "textColor4": "693b41"
+            },
+            "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
+            "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
+            "playParams": {
+              "id": "1657231962",
+              "kind": "song"
+            },
+            "discNumber": 1,
+            "hasCredits": false,
+            "hasLyrics": true,
+            "isAppleDigitalMaster": false,
+            "name": "Ditto",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/67/af/3d/67af3de7-8967-bc14-073d-a8712338ac32/mzaf_190692881480987912.plus.aac.p.m4a"
+              }
+            ],
+            "artistName": "NewJeans"
+          }
+        },
+        {
+          "id": "1659513448",
+          "type": "songs",
+          "href": "/v1/catalog/us/songs/1659513448",
+          "attributes": {
+            "albumName": "NewJeans 'OMG' - Single",
+            "genreNames": [
+              "K-Pop",
+              "Music",
+              "Pop"
+            ],
+            "trackNumber": 2,
+            "releaseDate": "2022-12-19",
+            "durationInMillis": 185507,
+            "isrc": "USA2P2254487",
+            "artwork": {
+              "width": 1400,
+              "height": 1400,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/48/96/08/4896085e-b550-cb0a-3e5b-1f203521cb82/196922265464_Cover.jpg/{w}x{h}bb.jpg",
+              "bgColor": "000000",
+              "textColor1": "ffffff",
+              "textColor2": "d7d7d7",
+              "textColor3": "cbcbcb",
+              "textColor4": "acacac"
+            },
+            "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
+            "playParams": {
+              "id": "1659513448",
+              "kind": "song"
+            },
+            "url": "https://music.apple.com/us/album/ditto/1659513441?i=1659513448",
+            "discNumber": 1,
+            "hasCredits": false,
+            "hasLyrics": true,
+            "isAppleDigitalMaster": false,
+            "name": "Ditto",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/48/dc/6e/48dc6e64-0457-a162-56b2-d4fbf6ac21ee/mzaf_13073512870195993057.plus.aac.p.m4a"
+              }
+            ],
+            "artistName": "NewJeans"
+          }
+        },
+        {
+          "id": "1681698623",
+          "type": "songs",
+          "href": "/v1/catalog/us/songs/1681698623",
+          "attributes": {
+            "albumName": "Ditto (NewJeans) Sped Up [Remix] - Single",
+            "genreNames": [
+              "Electronic",
+              "Music"
+            ],
+            "trackNumber": 1,
+            "durationInMillis": 168200,
+            "releaseDate": "2023-04-03",
+            "isrc": "QZWDW2305420",
+            "artwork": {
+              "width": 2048,
+              "height": 2048,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b2/81/d2/b281d252-1b42-0516-112f-3b7324047ddc/f60da5e4-4646-45c2-94fa-7f5055cbfcc8.jpg/{w}x{h}bb.jpg",
+              "bgColor": "323232",
+              "textColor1": "f5f5f5",
+              "textColor2": "eeeeee",
+              "textColor3": "cecece",
+              "textColor4": "c9c9c9"
+            },
+            "composerName": "250, Hyu-il Cho, The Black Skirts, MINJI, Oohyo & Ylva Dimberg",
+            "url": "https://music.apple.com/us/album/ditto-newjeans-sped-up-remix/1681698622?i=1681698623",
+            "playParams": {
+              "id": "1681698623",
+              "kind": "song"
+            },
+            "discNumber": 1,
+            "hasCredits": false,
+            "hasLyrics": false,
+            "isAppleDigitalMaster": false,
+            "name": "Ditto (NewJeans) Sped Up (Remix)",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/96/f8/38/96f83807-c685-dda8-80b1-da5d4eb7c0ba/mzaf_16381427636358861859.plus.aac.p.m4a"
+              }
+            ],
+            "artistName": "F4ST"
+          }
+        },
+        {
+          "id": "1719869030",
+          "type": "songs",
+          "href": "/v1/catalog/us/songs/1719869030",
+          "attributes": {
+            "albumName": "NJWMX",
+            "genreNames": [
+              "K-Pop",
+              "Music",
+              "Pop"
+            ],
+            "trackNumber": 1,
+            "releaseDate": "2023-12-19",
+            "durationInMillis": 201867,
+            "isrc": "USA2P2359066",
+            "artwork": {
+              "width": 1400,
+              "height": 1400,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cf/9a/07/cf9a07bb-2411-8c49-412a-ec21bb516e28/196922750618_Cover.jpg/{w}x{h}bb.jpg",
+              "bgColor": "fefdfb",
+              "textColor1": "041603",
+              "textColor2": "011b06",
+              "textColor3": "364434",
+              "textColor4": "334837"
+            },
+            "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
+            "url": "https://music.apple.com/us/album/ditto-250-remix/1719868691?i=1719869030",
+            "playParams": {
+              "id": "1719869030",
+              "kind": "song"
+            },
+            "discNumber": 1,
+            "hasCredits": false,
+            "hasLyrics": true,
+            "isAppleDigitalMaster": false,
+            "name": "Ditto (250 Remix)",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/66/84/3d/66843d32-35f3-b66a-5bab-1469dbe97ed8/mzaf_12176751492478921647.plus.aac.p.m4a"
+              }
+            ],
+            "artistName": "NewJeans"
+          }
+        },
+        {
+          "id": "1689650262",
+          "type": "songs",
+          "href": "/v1/catalog/us/songs/1689650262",
+          "attributes": {
+            "albumName": "Pride 2023 (DJ Mix)",
+            "genreNames": [
+              "Dance",
+              "Music",
+              "Electronic",
+              "Bass"
+            ],
+            "trackNumber": 24,
+            "releaseDate": "2023-06-02",
+            "durationInMillis": 112800,
+            "isrc": "US23A8016213",
+            "artwork": {
+              "width": 3000,
+              "height": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d7/d8/cd/d7d8cd9c-9290-94cf-2e31-637424f0fab3/dj.freshxfh.jpg/{w}x{h}bb.jpg",
+              "bgColor": "c80092",
+              "textColor1": "feedf8",
+              "textColor2": "feedee",
+              "textColor3": "f3bee3",
+              "textColor4": "f3bedc"
+            },
+            "playParams": {
+              "id": "1689650262",
+              "kind": "song"
+            },
+            "url": "https://music.apple.com/us/album/ditto-intoxxy-remix-mixed/1689649958?i=1689650262",
+            "discNumber": 1,
+            "hasCredits": false,
+            "isAppleDigitalMaster": false,
+            "hasLyrics": false,
+            "name": "Ditto (Intoxxy Remix) [Mixed]",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/97/fb/cd/97fbcd56-b849-4234-602d-aa2f10336331/mzaf_8195800040988922977.plus.aac.p.m4a"
+              }
+            ],
+            "artistName": "NewJeans"
+          }
+        }
+      ]
+    },
+    "albums": {
+      "href": "/v1/catalog/us/search?limit=5&term=ditto+new+jeans&types=albums",
+      "next": "/v1/catalog/us/search?offset=6&term=ditto+new+jeans&types=albums",
+      "data": [
+        {
+          "id": "1657231957",
+          "type": "albums",
+          "href": "/v1/catalog/us/albums/1657231957",
+          "attributes": {
+            "copyright": "℗ 2022 ADOR Co., Ltd.",
+            "genreNames": [
+              "K-Pop",
+              "Music",
+              "Pop"
+            ],
+            "releaseDate": "2022-12-19",
+            "upc": "196922287107",
+            "isMasteredForItunes": false,
+            "artwork": {
+              "width": 1400,
+              "height": 1400,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f6/29/42/f629426e-92fe-535c-cbe4-76e70850819b/196922287107_Cover.jpg/{w}x{h}bb.jpg",
+              "bgColor": "fdfcff",
+              "textColor1": "36080e",
+              "textColor2": "440a11",
+              "textColor3": "5e393e",
+              "textColor4": "693b41"
+            },
+            "playParams": {
+              "id": "1657231957",
+              "kind": "album"
+            },
+            "url": "https://music.apple.com/us/album/ditto-single/1657231957",
+            "recordLabel": "ADOR",
+            "trackCount": 1,
+            "isCompilation": false,
+            "isSingle": true,
+            "name": "Ditto - Single",
+            "artistName": "NewJeans",
+            "editorialNotes": {
+              "short": "The group explore romantic resonance through club-ready beats."
+            },
+            "isComplete": true
+          }
+        },
+        {
+          "id": "1681698622",
+          "type": "albums",
+          "href": "/v1/catalog/us/albums/1681698622",
+          "attributes": {
+            "copyright": "℗ 2023 Plur Records",
+            "genreNames": [
+              "Electronic",
+              "Music"
+            ],
+            "releaseDate": "2023-04-03",
+            "upc": "7316473232989",
+            "isMasteredForItunes": false,
+            "artwork": {
+              "width": 2048,
+              "height": 2048,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b2/81/d2/b281d252-1b42-0516-112f-3b7324047ddc/f60da5e4-4646-45c2-94fa-7f5055cbfcc8.jpg/{w}x{h}bb.jpg",
+              "bgColor": "323232",
+              "textColor1": "f5f5f5",
+              "textColor2": "eeeeee",
+              "textColor3": "cecece",
+              "textColor4": "c9c9c9"
+            },
+            "playParams": {
+              "id": "1681698622",
+              "kind": "album"
+            },
+            "url": "https://music.apple.com/us/album/ditto-newjeans-sped-up-remix-single/1681698622",
+            "recordLabel": "Plur Records",
+            "trackCount": 1,
+            "isCompilation": false,
+            "isSingle": true,
+            "name": "Ditto (NewJeans) Sped Up [Remix] - Single",
+            "artistName": "F4ST",
+            "isComplete": true
+          }
+        },
+        {
+          "id": "1695951888",
+          "type": "albums",
+          "href": "/v1/catalog/us/albums/1695951888",
+          "attributes": {
+            "copyright": "℗ 2023 ADOR Co., Ltd.",
+            "genreNames": [
+              "K-Pop",
+              "Music",
+              "Pop"
+            ],
+            "releaseDate": "2023-07-21",
+            "upc": "196922462726",
+            "isMasteredForItunes": false,
+            "artwork": {
+              "width": 1400,
+              "height": 1400,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/4b/7e/d34b7e1e-af3b-43b6-2949-7a8c652a1bc9/196922462726_Cover.jpg/{w}x{h}bb.jpg",
+              "bgColor": "8fc1e2",
+              "textColor1": "000000",
+              "textColor2": "0c244b",
+              "textColor3": "1c272d",
+              "textColor4": "264369"
+            },
+            "url": "https://music.apple.com/us/album/newjeans-2nd-ep-get-up/1695951888",
+            "playParams": {
+              "id": "1695951888",
+              "kind": "album"
+            },
+            "recordLabel": "ADOR",
+            "trackCount": 6,
+            "isCompilation": false,
+            "isSingle": false,
+            "name": "NewJeans 2nd EP 'Get Up'",
+            "artistName": "NewJeans",
+            "editorialNotes": {
+              "tagline": "New EP",
+              "standard": "In 2022, NewJeans dropped into the saturated K-pop industry with zero pre-promotion. The music video for “Attention” combined breezy R&B-inspired pop, immaculate Y2K-nostalgic visuals, and the teen-girl cool of Minji, Haerin, Hanni, Danielle, and Hyein. Now they’re back with their second EP, a mini-album featuring six short tracks that reasserts NewJeans’ dominance in the fourth-generation K-pop scene. \n\nSonically, <i>Get Up</i> doubles down on NewJeans’ commitment to noughts-era R&B paired with electronic dance elements. Pre-release singles “Super Shy”—which member Hanni says reminds her of flying through space on a rocket ship—and <i>Powerpuff Girls</i> collab “New Jeans” are peppy, synth-driven bops that fans of “Ditto” will love. But the girls have never been as solemn as they are on “Cool With You,” a UK garage track, and “Get Up,” two songs that could be teasing an evolution of their vibe. Tying the sophomore project together are the versatile, finely tuned vocals of the young members, which continue to elevate NewJeans’ music from forgettable pop to something more textured—and serve as a tribute to the teen-girl interiority that is at the center of NewJeans’ music and story.",
+              "short": "Six tracks that reassert the group's effortless brand of teen-girl cool."
+            },
+            "isComplete": true
+          }
+        },
+        {
+          "id": "1635469682",
+          "type": "albums",
+          "href": "/v1/catalog/us/albums/1635469682",
+          "attributes": {
+            "copyright": "℗ 2022 ADOR Co., Ltd.",
+            "genreNames": [
+              "K-Pop",
+              "Music",
+              "Pop"
+            ],
+            "releaseDate": "2022-08-01",
+            "upc": "192641873096",
+            "isMasteredForItunes": false,
+            "artwork": {
+              "width": 1400,
+              "height": 1400,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/{w}x{h}bb.jpg",
+              "bgColor": "fbfffc",
+              "textColor1": "111431",
+              "textColor2": "13172c",
+              "textColor3": "3f435a",
+              "textColor4": "424556"
+            },
+            "playParams": {
+              "id": "1635469682",
+              "kind": "album"
+            },
+            "url": "https://music.apple.com/us/album/newjeans-1st-ep-new-jeans/1635469682",
+            "recordLabel": "ADOR",
+            "isCompilation": false,
+            "trackCount": 4,
+            "isSingle": false,
+            "name": "NewJeans 1st EP 'New Jeans'",
+            "artistName": "NewJeans",
+            "editorialNotes": {
+              "short": "The quintet’s low-key approach to K-pop pays off on their debut."
+            },
+            "isComplete": true
+          }
+        },
+        {
+          "id": "1719868691",
+          "type": "albums",
+          "href": "/v1/catalog/us/albums/1719868691",
+          "attributes": {
+            "copyright": "℗ 2023 ADOR Co., Ltd.",
+            "genreNames": [
+              "K-Pop",
+              "Music",
+              "Pop"
+            ],
+            "releaseDate": "2023-12-19",
+            "upc": "196922750618",
+            "isMasteredForItunes": false,
+            "artwork": {
+              "width": 1400,
+              "height": 1400,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cf/9a/07/cf9a07bb-2411-8c49-412a-ec21bb516e28/196922750618_Cover.jpg/{w}x{h}bb.jpg",
+              "bgColor": "fefdfb",
+              "textColor1": "041603",
+              "textColor2": "011b06",
+              "textColor3": "364434",
+              "textColor4": "334837"
+            },
+            "url": "https://music.apple.com/us/album/njwmx/1719868691",
+            "playParams": {
+              "id": "1719868691",
+              "kind": "album"
+            },
+            "recordLabel": "ADOR",
+            "isCompilation": false,
+            "trackCount": 12,
+            "isSingle": false,
+            "name": "NJWMX",
+            "artistName": "NewJeans",
+            "isComplete": true
+          }
+        }
+      ]
+    },
+    "artists": {
+      "href": "/v1/catalog/us/search?limit=5&term=ditto+new+jeans&types=artists",
+      "data": [
+        {
+          "id": "1723445019",
+          "type": "artists",
+          "href": "/v1/catalog/us/artists/1723445019",
+          "attributes": {
+            "name": "NewJeans",
+            "genreNames": [
+              "Pop"
+            ],
+            "artwork": {
+              "width": 3000,
+              "height": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/e0/ff/fde0ff88-1c78-ae6d-f974-2beeaf508264/811395039915.png/{w}x{h}ac.jpg",
+              "bgColor": "050405",
+              "textColor1": "eff8ef",
+              "textColor2": "f4a8a5",
+              "textColor3": "c0c7c0",
+              "textColor4": "c48785"
+            },
+            "url": "https://music.apple.com/us/artist/newjeans/1723445019"
+          },
+          "relationships": {
+            "albums": {
+              "href": "/v1/catalog/us/artists/1723445019/albums",
+              "data": [
+                {
+                  "id": "1707102901",
+                  "type": "albums",
+                  "href": "/v1/catalog/us/albums/1707102901"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  "meta": {
+    "results": {
+      "order": [
+        "songs",
+        "albums",
+        "artists"
+      ],
+      "rawOrder": [
+        "songs",
+        "albums",
+        "artists"
+      ]
+    }
+  }
+}

@@ -12,9 +12,6 @@ import java.util.Map;
 @Getter
 @NoArgsConstructor
 public class ExternalUrl {
-    HashMap<String,String>  exUrls;
+    String spotify;
 
-    ExternalUrl(String vendor, String url ){
-        this.exUrls.put(vendor,url);
-    }
 }
