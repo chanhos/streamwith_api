@@ -1,0 +1,574 @@
+{
+  "apple_music_playlist": [
+    "1659513448",
+    "1635469694",
+    "1692686265",
+    "1072573828",
+    "1621089616",
+    "1659513448",
+    "1635469854",
+    "1659513448",
+    "1723932648",
+    "1698053100"
+  ],
+  "apple_music_track_information": {
+    "1072573828": {
+      "id": "1072573828",
+      "href": "/v1/catalog/us/songs/1072573828",
+      "type": "songs",
+      "attributes": {
+        "url": "https://music.apple.com/us/album/dream/1072573655?i=1072573828",
+        "isrc": "KRA381600046",
+        "name": "Dream",
+        "artwork": {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/23/52/02/23520248-ad37-b0d8-743a-a975ece6cbbf/COVER-_BAEKHYUN.jpg/{w}x{h}bb.jpg",
+          "width": 1400,
+          "height": 1400,
+          "bgColor": "041216",
+          "textColor1": "fefefe",
+          "textColor2": "d2cab5",
+          "textColor3": "cccfd0",
+          "textColor4": "a9a695"
+        },
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ea/8b/0c/ea8b0c47-29e3-cce8-ec9d-ad284c169aea/mzaf_12751217188009362873.plus.aac.p.m4a"
+          }
+        ],
+        "albumName": "Dream - Single",
+        "hasLyrics": true,
+        "artistName": "Suzy & BAEKHYUN",
+        "discNumber": 1,
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop",
+          "R&B/Soul"
+        ],
+        "hasCredits": false,
+        "playParams": {
+          "id": "1072573828",
+          "kind": "song"
+        },
+        "releaseDate": "2016-01-07",
+        "trackNumber": 1,
+        "durationInMillis": 222415,
+        "isAppleDigitalMaster": false
+      },
+      "equivalents": {
+        "us": "1072573828"
+      },
+      "relationships": {
+        "albums": {
+          "data": [
+            {
+              "id": "1072573655",
+              "href": "/v1/catalog/us/albums/1072573655",
+              "type": "albums"
+            }
+          ],
+          "href": "/v1/catalog/us/songs/1072573828/albums"
+        },
+        "artists": {
+          "data": [
+            {
+              "id": "950640685",
+              "href": "/v1/catalog/us/artists/950640685",
+              "type": "artists"
+            },
+            {
+              "id": "987357639",
+              "href": "/v1/catalog/us/artists/987357639",
+              "type": "artists"
+            }
+          ],
+          "href": "/v1/catalog/us/songs/1072573828/artists"
+        }
+      }
+    },
+    "1621089616": {
+      "id": "1621089616",
+      "href": "/v1/catalog/us/songs/1621089616",
+      "type": "songs",
+      "attributes": {
+        "url": "https://music.apple.com/us/album/the-great-mermaid/1621089349?i=1621089616",
+        "isrc": "USA2P2219219",
+        "name": "The Great Mermaid",
+        "artwork": {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/90/dc/9f/90dc9fdb-c0f3-f506-0942-0e33c94d26f4/196922016622_Cover.jpg/{w}x{h}bb.jpg",
+          "width": 1400,
+          "height": 1400,
+          "bgColor": "000000",
+          "textColor1": "ffffff",
+          "textColor2": "dedede",
+          "textColor3": "cbcbcb",
+          "textColor4": "b1b1b1"
+        },
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/f6/07/e0/f607e01e-f8a4-986f-bb61-bd0ae0e12d41/mzaf_5463380651474946653.plus.aac.p.m4a"
+          }
+        ],
+        "albumName": "FEARLESS - EP",
+        "hasLyrics": true,
+        "artistName": "LE SSERAFIM",
+        "discNumber": 1,
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "hasCredits": false,
+        "playParams": {
+          "id": "1621089616",
+          "kind": "song"
+        },
+        "releaseDate": "2022-05-02",
+        "trackNumber": 4,
+        "composerName": "SCORE(13), MEGATONE(13), \"Hitman\" Bang, Sunshine (Cazzi Opeia & Ellen Berg), Anne Judith Wik (Dsign Music), Ronny Svendsen (Dsign Music), Nermin Harambasic (Dsign Music), Danke, Kyler Niko, PAU, 이형석(PNP) & Jung Jin Woo",
+        "durationInMillis": 177795,
+        "isAppleDigitalMaster": false
+      },
+      "equivalents": {
+        "us": "1621089616"
+      },
+      "relationships": {
+        "albums": {
+          "data": [
+            {
+              "id": "1621089349",
+              "href": "/v1/catalog/us/albums/1621089349",
+              "type": "albums"
+            }
+          ],
+          "href": "/v1/catalog/us/songs/1621089616/albums"
+        },
+        "artists": {
+          "data": [
+            {
+              "id": "1616740364",
+              "href": "/v1/catalog/us/artists/1616740364",
+              "type": "artists"
+            }
+          ],
+          "href": "/v1/catalog/us/songs/1621089616/artists"
+        }
+      }
+    },
+    "1635469694": {
+      "id": "1635469694",
+      "href": "/v1/catalog/us/songs/1635469694",
+      "type": "songs",
+      "attributes": {
+        "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
+        "isrc": "USA2P2230221",
+        "name": "Attention",
+        "artwork": {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/{w}x{h}bb.jpg",
+          "width": 1400,
+          "height": 1400,
+          "bgColor": "fbfffc",
+          "textColor1": "111431",
+          "textColor2": "13172c",
+          "textColor3": "3f435a",
+          "textColor4": "424556"
+        },
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/13/79/51/13795136-c3d0-1191-cc43-dcc16579a2f2/mzaf_8604667655746746744.plus.aac.p.m4a"
+          }
+        ],
+        "albumName": "NewJeans 1st EP 'New Jeans'",
+        "hasLyrics": true,
+        "artistName": "NewJeans",
+        "discNumber": 1,
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "hasCredits": false,
+        "playParams": {
+          "id": "1635469694",
+          "kind": "song"
+        },
+        "releaseDate": "2022-08-01",
+        "trackNumber": 1,
+        "composerName": "Duckbay (Cosmos Studios Stockholm), 250, Gigi & Danielle",
+        "durationInMillis": 180067,
+        "isAppleDigitalMaster": false
+      },
+      "equivalents": {
+        "us": "1635469694"
+      },
+      "relationships": {
+        "albums": {
+          "data": [
+            {
+              "id": "1635469682",
+              "href": "/v1/catalog/us/albums/1635469682",
+              "type": "albums"
+            }
+          ],
+          "href": "/v1/catalog/us/songs/1635469694/albums"
+        },
+        "artists": {
+          "data": [
+            {
+              "id": "1635469693",
+              "href": "/v1/catalog/us/artists/1635469693",
+              "type": "artists"
+            }
+          ],
+          "href": "/v1/catalog/us/songs/1635469694/artists"
+        }
+      }
+    },
+    "1635469854": {
+      "id": "1635469854",
+      "href": "/v1/catalog/us/songs/1635469854",
+      "type": "songs",
+      "attributes": {
+        "url": "https://music.apple.com/us/album/cookie/1635469682?i=1635469854",
+        "isrc": "USA2P2230223",
+        "name": "Cookie",
+        "artwork": {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/{w}x{h}bb.jpg",
+          "width": 1400,
+          "height": 1400,
+          "bgColor": "fbfffc",
+          "textColor1": "111431",
+          "textColor2": "13172c",
+          "textColor3": "3f435a",
+          "textColor4": "424556"
+        },
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/01/71/fe/0171feef-a9e6-8fcd-a42a-2a75d6b35416/mzaf_4783706318511182821.plus.aac.p.m4a"
+          }
+        ],
+        "albumName": "NewJeans 1st EP 'New Jeans'",
+        "hasLyrics": true,
+        "artistName": "NewJeans",
+        "discNumber": 1,
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "hasCredits": false,
+        "playParams": {
+          "id": "1635469854",
+          "kind": "song"
+        },
+        "releaseDate": "2022-08-01",
+        "trackNumber": 3,
+        "composerName": "Ylva Dimberg, Jinsu Park & Gigi",
+        "durationInMillis": 235562,
+        "isAppleDigitalMaster": false
+      },
+      "equivalents": {
+        "us": "1635469854"
+      },
+      "relationships": {
+        "albums": {
+          "data": [
+            {
+              "id": "1635469682",
+              "href": "/v1/catalog/us/albums/1635469682",
+              "type": "albums"
+            }
+          ],
+          "href": "/v1/catalog/us/songs/1635469854/albums"
+        },
+        "artists": {
+          "data": [
+            {
+              "id": "1635469693",
+              "href": "/v1/catalog/us/artists/1635469693",
+              "type": "artists"
+            }
+          ],
+          "href": "/v1/catalog/us/songs/1635469854/artists"
+        }
+      }
+    },
+    "1659513448": {
+      "id": "1659513448",
+      "href": "/v1/catalog/us/songs/1659513448",
+      "type": "songs",
+      "attributes": {
+        "url": "https://music.apple.com/us/album/ditto/1659513441?i=1659513448",
+        "isrc": "USA2P2254487",
+        "name": "Ditto",
+        "artwork": {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/48/96/08/4896085e-b550-cb0a-3e5b-1f203521cb82/196922265464_Cover.jpg/{w}x{h}bb.jpg",
+          "width": 1400,
+          "height": 1400,
+          "bgColor": "000000",
+          "textColor1": "ffffff",
+          "textColor2": "d7d7d7",
+          "textColor3": "cbcbcb",
+          "textColor4": "acacac"
+        },
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/48/dc/6e/48dc6e64-0457-a162-56b2-d4fbf6ac21ee/mzaf_13073512870195993057.plus.aac.p.m4a"
+          }
+        ],
+        "albumName": "NewJeans 'OMG' - Single",
+        "hasLyrics": true,
+        "artistName": "NewJeans",
+        "discNumber": 1,
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "hasCredits": false,
+        "playParams": {
+          "id": "1659513448",
+          "kind": "song"
+        },
+        "releaseDate": "2022-12-19",
+        "trackNumber": 2,
+        "composerName": "Ylva Dimberg, 250, Hyu-il Cho (The Black Skirts), Oohyo & MINJI",
+        "durationInMillis": 185507,
+        "isAppleDigitalMaster": false
+      },
+      "equivalents": {
+        "us": "1659513448"
+      },
+      "relationships": {
+        "albums": {
+          "data": [
+            {
+              "id": "1659513441",
+              "href": "/v1/catalog/us/albums/1659513441",
+              "type": "albums"
+            }
+          ],
+          "href": "/v1/catalog/us/songs/1659513448/albums"
+        },
+        "artists": {
+          "data": [
+            {
+              "id": "1635469693",
+              "href": "/v1/catalog/us/artists/1635469693",
+              "type": "artists"
+            }
+          ],
+          "href": "/v1/catalog/us/songs/1659513448/artists"
+        }
+      }
+    },
+    "1692686265": {
+      "id": "1692686265",
+      "href": "/v1/catalog/us/songs/1692686265",
+      "type": "songs",
+      "attributes": {
+        "url": "https://music.apple.com/us/album/new-jeans/1692686264?i=1692686265",
+        "isrc": "USA2P2330067",
+        "name": "New Jeans",
+        "artwork": {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/63/e5/e2/63e5e2e4-829b-924d-a1dc-8058a1d69bd4/196922462702_Cover.jpg/{w}x{h}bb.jpg",
+          "width": 1400,
+          "height": 1400,
+          "bgColor": "8fc1e2",
+          "textColor1": "000000",
+          "textColor2": "0c244b",
+          "textColor3": "1c272d",
+          "textColor4": "264369"
+        },
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/5e/86/81/5e8681fe-52e4-b4fb-c63f-bfe249058ec2/mzaf_5277402359031392646.plus.aac.p.m4a"
+          }
+        ],
+        "albumName": "NewJeans 'Super Shy' - Single",
+        "hasLyrics": true,
+        "artistName": "NewJeans",
+        "discNumber": 1,
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "hasCredits": false,
+        "playParams": {
+          "id": "1692686265",
+          "kind": "song"
+        },
+        "releaseDate": "2023-07-07",
+        "trackNumber": 1,
+        "composerName": "Erika de Casier, Fine Glindvad Jensen, FRNK, Frankie Scoca, Gigi & HAERIN",
+        "durationInMillis": 108987,
+        "isAppleDigitalMaster": false
+      },
+      "equivalents": {
+        "us": "1692686265"
+      },
+      "relationships": {
+        "albums": {
+          "data": [
+            {
+              "id": "1692686264",
+              "href": "/v1/catalog/us/albums/1692686264",
+              "type": "albums"
+            }
+          ],
+          "href": "/v1/catalog/us/songs/1692686265/albums"
+        },
+        "artists": {
+          "data": [
+            {
+              "id": "1635469693",
+              "href": "/v1/catalog/us/artists/1635469693",
+              "type": "artists"
+            }
+          ],
+          "href": "/v1/catalog/us/songs/1692686265/artists"
+        }
+      }
+    },
+    "1698053100": {
+      "id": "1698053100",
+      "href": "/v1/catalog/us/songs/1698053100",
+      "type": "songs",
+      "attributes": {
+        "url": "https://music.apple.com/us/album/that-that-prod-feat-suga-of-bts/1698053098?i=1698053100",
+        "isrc": "QZEKE2084402",
+        "name": "That That (prod.&feat. SUGA of BTS)",
+        "artwork": {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/05/3d/8c/053d8c68-eba1-3bb7-6445-39c085b91c1c/8809856802354.jpg/{w}x{h}bb.jpg",
+          "width": 3000,
+          "height": 3000,
+          "bgColor": "f8f5ee",
+          "textColor1": "000000",
+          "textColor2": "262624",
+          "textColor3": "31312f",
+          "textColor4": "504f4c"
+        },
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/72/b1/7c/72b17cd8-8fe2-40a4-e52c-b33f93db4bca/mzaf_14549777494481811065.plus.aac.p.m4a"
+          }
+        ],
+        "albumName": "PSY 9th",
+        "hasLyrics": true,
+        "artistName": "PSY",
+        "discNumber": 1,
+        "genreNames": [
+          "Dance",
+          "Music",
+          "Pop",
+          "K-Pop"
+        ],
+        "hasCredits": false,
+        "playParams": {
+          "id": "1698053100",
+          "kind": "song"
+        },
+        "releaseDate": "2022-04-29",
+        "trackNumber": 2,
+        "composerName": "PSY, SUGA & EL CAPITXN",
+        "durationInMillis": 174647,
+        "isAppleDigitalMaster": false
+      },
+      "equivalents": {
+        "us": "1698053100"
+      },
+      "relationships": {
+        "albums": {
+          "data": [
+            {
+              "id": "1698053098",
+              "href": "/v1/catalog/us/albums/1698053098",
+              "type": "albums"
+            }
+          ],
+          "href": "/v1/catalog/us/songs/1698053100/albums"
+        },
+        "artists": {
+          "data": [
+            {
+              "id": "554290495",
+              "href": "/v1/catalog/us/artists/554290495",
+              "type": "artists"
+            }
+          ],
+          "href": "/v1/catalog/us/songs/1698053100/artists"
+        }
+      }
+    },
+    "1723932648": {
+      "id": "1723932648",
+      "href": "/v1/catalog/us/songs/1723932648",
+      "type": "songs",
+      "attributes": {
+        "url": "https://music.apple.com/us/album/plot-twist/1723932647?i=1723932648",
+        "isrc": "USA2P2360920",
+        "name": "plot twist",
+        "artwork": {
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c4/d6/e6/c4d6e6cc-b5dc-8ddf-34cd-bf11b33cc1e1/196922759543_Cover.jpg/{w}x{h}bb.jpg",
+          "width": 1400,
+          "height": 1400,
+          "bgColor": "ffffff",
+          "textColor1": "01234a",
+          "textColor2": "0d2653",
+          "textColor3": "344f6e",
+          "textColor4": "3e5175"
+        },
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/d3/de/b3/d3deb305-95b7-efba-3be9-0c89a0f9c9db/mzaf_3827213250576636423.plus.aac.p.m4a"
+          }
+        ],
+        "albumName": "TWS 1st Mini Album 'Sparkling Blue' - EP",
+        "hasLyrics": true,
+        "artistName": "TWS",
+        "discNumber": 1,
+        "genreNames": [
+          "K-Pop",
+          "Music",
+          "Pop"
+        ],
+        "hasCredits": false,
+        "playParams": {
+          "id": "1723932648",
+          "kind": "song"
+        },
+        "releaseDate": "2024-01-22",
+        "trackNumber": 1,
+        "composerName": "WASURENAI, JIN JEON, Building Owner, Glenn Rogers, Ohway!, Nmore, Heon Seo, T-Sk, YouthK & BrotherSu",
+        "durationInMillis": 152400,
+        "isAppleDigitalMaster": false
+      },
+      "equivalents": {
+        "us": "1723932648"
+      },
+      "relationships": {
+        "albums": {
+          "data": [
+            {
+              "id": "1723932647",
+              "href": "/v1/catalog/us/albums/1723932647",
+              "type": "albums"
+            }
+          ],
+          "href": "/v1/catalog/us/songs/1723932648/albums"
+        },
+        "artists": {
+          "data": [
+            {
+              "id": "1721226191",
+              "href": "/v1/catalog/us/artists/1721226191",
+              "type": "artists"
+            }
+          ],
+          "href": "/v1/catalog/us/songs/1723932648/artists"
+        }
+      }
+    }
+  }
+}
