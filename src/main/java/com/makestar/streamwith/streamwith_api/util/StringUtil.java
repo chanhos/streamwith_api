@@ -6,4 +6,12 @@ public class StringUtil {
     public static String replaceWhiteSpace(String input) {
         return input.replaceAll(" ", SPACE_REPLACE_CHAR);
     }
+
+
+    public static String convertRegexStr(String input){
+        return  input.toLowerCase().replaceAll(" ","")
+                .replaceAll("\\(","\\\\\\(").replaceAll("\\)","\\\\\\)");
+    }
+
+
 }

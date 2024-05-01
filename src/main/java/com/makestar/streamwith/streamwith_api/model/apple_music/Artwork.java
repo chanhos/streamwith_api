@@ -1,7 +1,6 @@
-package com.makestar.streamwith.streamwith_api.model.apple_music;
+package com.makestar.streamwith.streamwith_api.model.streamwith;
 
-
-import com.fasterxml.jackson.annotation.JsonAlias;
+import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -11,11 +10,11 @@ import lombok.Setter;
 @Getter
 @NoArgsConstructor
 @AllArgsConstructor
-public class ArtWork {
+public class Artwork {
     private int width;
 
     private int height;
-    @JsonAlias("url")
+    @JsonProperty("url")
     private String artworkUrl;
 
     private String bgColor;

@@ -8,9 +8,10 @@ import lombok.Setter;
 @Setter
 @Getter
 @NoArgsConstructor
-public class PlayParam {
-    @JsonProperty("id")
-    private String playId;
+public class Album {
+    @JsonProperty("data")
+    private RelationData[] albumDatas;
 
-    private String kind;
+    @JsonProperty("href")
+    private String albumUrl;
 }

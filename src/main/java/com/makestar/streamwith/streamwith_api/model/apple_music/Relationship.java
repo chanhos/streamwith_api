@@ -1,16 +1,14 @@
 package com.makestar.streamwith.streamwith_api.model.apple_music;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
-@Setter
 @Getter
+@Setter
 @NoArgsConstructor
-public class PlayParam {
-    @JsonProperty("id")
-    private String playId;
+public class Relationship {
+    private Album albums;
 
-    private String kind;
+    private Artist artists;
 }

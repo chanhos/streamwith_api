@@ -1,26 +1,29 @@
 package com.makestar.streamwith.streamwith_api.model.apple_music;
 
-
-import com.fasterxml.jackson.annotation.JsonAlias;
-import lombok.AllArgsConstructor;
+import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
-@Getter
+import java.util.HashMap;
+import java.util.Map;
+
 @Setter
+@Getter
 @NoArgsConstructor
-@AllArgsConstructor
 public class TrackInformation {
-    @JsonAlias("id")
+    @JsonProperty("id")
     private  String trackId;
 
-    @JsonAlias("type")
+    @JsonProperty("type")
     private String trackType;
 
-    @JsonAlias("href")
+    @JsonProperty("href")
     private String trackUrl;
 
-
     private Attribute attributes;
+
+    private Map<String,String> equivalents = new HashMap<>();
+
+    private Relationship relationships;
 }

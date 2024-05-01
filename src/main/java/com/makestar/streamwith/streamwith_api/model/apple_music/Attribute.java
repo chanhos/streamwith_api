@@ -1,58 +1,50 @@
 package com.makestar.streamwith.streamwith_api.model.apple_music;
 
 
-import com.fasterxml.jackson.annotation.JsonAlias;
-import lombok.AllArgsConstructor;
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.makestar.streamwith.streamwith_api.model.streamwith.Artwork;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
-import java.util.List;
-
 @Setter
 @Getter
 @NoArgsConstructor
-@AllArgsConstructor
 public class Attribute {
-
-    @JsonAlias("name")
+    @JsonProperty("name")
     private String songName;
 
-    private String albumName;
-
-    private String artistName;
-
-    private String[] genreNames;
-
-    private int trackNumber;
-
-    private long durationInMillis;
-
-    private String releaseDate;
+    @JsonProperty("url")
+    private String attributeUrl;
 
     private String isrc;
 
-    private String composerName;
-
-    @JsonAlias("url")
-    private String attributeUrl;
-
-    private int discNumber;
-
-    private boolean hasCredits;
-
-    @JsonAlias("isAppleDigitalMaster")
-    private boolean appleDigitalMaster;
-
-    private boolean hasLyrics;
-
-    private ArtWork artwork;
-
-    private PlayParam playParams;
+    private Artwork artwork;
 
     private Preview[] previews;
 
-    private String contentRating;
+    private String albumName;
 
+    private boolean hasLyrics;
 
+    private String artistName;
+
+    private int discNumber;
+
+    private String[] genreNames;
+
+    private boolean hasCredits;
+
+    private PlayParam playParams;
+
+    private String releaseDate;
+
+    private int trackNumber;
+
+    private String composerName;
+
+    private long durationInMillis;
+
+    @JsonProperty("isAppleDigitalMaster")
+    private boolean appleDigitalMaster;
 }
