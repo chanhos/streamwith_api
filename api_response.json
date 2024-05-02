@@ -52,7 +52,9 @@
         "url": "https://music.apple.com/us/album/ditto/1659513441?i=1659513448",
         "isAppleDigitalMaster": false
       },
-      "equivalents": null,
+      "equivalents": {
+        "US": "1659513448"
+      },
       "relationships": {
         "albums": {
           "data": [
@@ -119,7 +121,9 @@
         "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
         "isAppleDigitalMaster": false
       },
-      "equivalents": null,
+      "equivalents": {
+        "US": "1635469694"
+      },
       "relationships": {
         "albums": {
           "data": [
@@ -186,7 +190,9 @@
         "url": "https://music.apple.com/us/album/cookie/1635469682?i=1635469854",
         "isAppleDigitalMaster": false
       },
-      "equivalents": null,
+      "equivalents": {
+        "US": "1635469854"
+      },
       "relationships": {
         "albums": {
           "data": [
@@ -253,7 +259,9 @@
         "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
         "isAppleDigitalMaster": false
       },
-      "equivalents": null,
+      "equivalents": {
+        "US": "1657231962"
+      },
       "relationships": {
         "albums": {
           "data": [
@@ -320,7 +328,9 @@
         "url": "https://music.apple.com/us/album/new-jeans/1692686264?i=1692686265",
         "isAppleDigitalMaster": false
       },
-      "equivalents": null,
+      "equivalents": {
+        "US": "1692686265"
+      },
       "relationships": {
         "albums": {
           "data": [
@@ -388,7 +398,9 @@
         "url": "https://music.apple.com/us/album/dream/1072573655?i=1072573828",
         "isAppleDigitalMaster": false
       },
-      "equivalents": null,
+      "equivalents": {
+        "US": "1072573828"
+      },
       "relationships": {
         "albums": {
           "data": [
@@ -460,7 +472,9 @@
         "url": "https://music.apple.com/us/album/the-great-mermaid/1621089349?i=1621089616",
         "isAppleDigitalMaster": false
       },
-      "equivalents": null,
+      "equivalents": {
+        "US": "1621089616"
+      },
       "relationships": {
         "albums": {
           "data": [
@@ -527,7 +541,9 @@
         "url": "https://music.apple.com/us/album/plot-twist/1723932647?i=1723932648",
         "isAppleDigitalMaster": false
       },
-      "equivalents": null,
+      "equivalents": {
+        "US": "1723932648"
+      },
       "relationships": {
         "albums": {
           "data": [
@@ -595,7 +611,9 @@
         "url": "https://music.apple.com/us/album/that-that-prod-feat-suga-of-bts/1698053098?i=1698053100",
         "isAppleDigitalMaster": false
       },
-      "equivalents": null,
+      "equivalents": {
+        "US": "1698053100"
+      },
       "relationships": {
         "albums": {
           "data": [
@@ -622,5 +640,6 @@
       "type": "songs",
       "href": "/v1/catalog/us/songs/1698053100"
     }
-  }
+  },
+  "not_matched_apple_music_track_information": {}
 }

@@ -24,17 +24,16 @@ public class AppleMusicConvertServiceImpl implements AppleMusicConvertService {
     @Override
     public ResponseVo getAppleMusicList() {
         ObjectMapper mapper = new ObjectMapper();
-        StreamWithAppleMusicList list =appleMusicListConverter.convert();
-
-        if (list != null) {
-            try {
+        try{
+            StreamWithAppleMusicList list =appleMusicListConverter.convert();
+            if ( list != null) {
                 String str = mapper.writeValueAsString(list);
-                return new ResponseVo("success",list);
-            }catch (JsonProcessingException e) {
-                return new ResponseVo(String.format("Internal Server error : %s",e), HttpStatus.INTERNAL_SERVER_ERROR);
+                return new ResponseVo("success",str);
+            }else{
+                return new ResponseVo("Convert failed",null);
             }
-        }else{
-            return new ResponseVo("Internal Server error ", HttpStatus.INTERNAL_SERVER_ERROR);
+        }catch (Exception e){
+            return new ResponseVo(String.format("Internal Server error : %s",e), null);
         }
     }
 }

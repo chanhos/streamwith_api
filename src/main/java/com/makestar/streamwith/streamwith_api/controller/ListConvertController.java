@@ -1,9 +1,11 @@
 package com.makestar.streamwith.streamwith_api.controller;
 
 
+import com.makestar.streamwith.streamwith_api.model.vo.ResponseVo;
 import com.makestar.streamwith.streamwith_api.service.AppleMusicConvertService;
 import com.makestar.streamwith.streamwith_api.service.AppleMusicConvertServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
@@ -18,9 +20,15 @@ public class ListConvertController {
         this.appleMusicConvertService = appleMusicConvertService;
     }
 
-    @GetMapping("/converted/apple-music")
+    @GetMapping("/v1/convert/apple-music")
     @ResponseBody
     public ResponseEntity<String> convertListToAppleMusic(){
-        return  appleMusicConvertService.getAppleMusicList();
+        ResponseVo response =  appleMusicConvertService.getAppleMusicList();
+
+        if (response.getData() != null){
+            return new ResponseEntity<>(response.getData().toString(), HttpStatus.OK);
+        }else{
+            return new ResponseEntity<>(response.getResponseMsg(), HttpStatus.INTERNAL_SERVER_ERROR);
+        }
     }
 }

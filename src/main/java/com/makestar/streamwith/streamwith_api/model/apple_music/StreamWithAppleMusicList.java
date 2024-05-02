@@ -1,5 +1,6 @@
 package com.makestar.streamwith.streamwith_api.model.apple_music;
 
+import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -12,6 +13,7 @@ import java.util.Map;
 
 @Setter
 @Getter
+@JsonInclude(JsonInclude.Include.NON_NULL)
 public class StreamWithAppleMusicList {
 
     @JsonProperty("apple_music_playlist")
