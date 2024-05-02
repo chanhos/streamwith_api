@@ -16,6 +16,9 @@ import static com.makestar.streamwith.streamwith_api.util.StringUtil.replaceWhit
 @Getter
 @AllArgsConstructor
 public class SpotifyMusicConvertParam {
+
+    //Spotify music id
+    private String id;
     // 찾을 곡명
     private String songName;
     // 찾을 곡의 앨범명
@@ -23,7 +26,9 @@ public class SpotifyMusicConvertParam {
     // 찾을 곡의 artist 명(복수)
     private List<String> artists;
 
+
     public String getAppleMusicApiQueryParam(){
+        //곡명+아티스트명
         return replaceWhiteSpace(songName) +SPACE_REPLACE_CHAR+ String.join(SPACE_REPLACE_CHAR,artists);
     }
 

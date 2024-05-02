@@ -21,8 +21,13 @@ public class StreamWithAppleMusicList {
     @JsonProperty("apple_music_track_information")
     private Map<String, TrackInformation> appleMusicTrackInformation;
 
+
+    @JsonProperty("not_matched_apple_music_track_information")
+    private Map<String, NotMatchedMusic > notMatchedAppleMusicTrackInformation;
+
     public StreamWithAppleMusicList(){
         this.appleMusicPlaylist = new ArrayList<>();
         this.appleMusicTrackInformation = new HashMap<>();
+        this.notMatchedAppleMusicTrackInformation = new HashMap<>();
     }
 }
